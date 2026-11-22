@@ -29,3 +29,23 @@ The warmth on either side makes the narrow gap feel like a place made for the pa
 > The oars lie across the seats. Under the dock, the water lifts the empty boat just enough to darken a new line on the wood.
 
 A thin wet line gives the eye a quiet measure of the boat's movement.
+
+## Round 2
+
+### 1. The ridge in the cloth (selected)
+
+> The apron hangs by the kitchen door. A wooden clothespin lies sideways in the pocket. The light is low enough to show the ridge it makes in the cloth.
+
+Three sentences draw the eye from the door to the pocket to the small ridge in the evening light.
+
+### 2. The folded sheet
+
+> A blue sheet lies folded on the chair. Along one edge, the folds are a little out of line, each a thin blue step.
+
+The uneven folds give the eye a small place to linger and bring out the softness of the sheet.
+
+### 3. The covered bowl
+
+> The dough has risen to the rim of the bowl. In the middle, it lifts the towel just clear of the rim. The corners still hang straight down.
+
+The lift is small enough that the towel stays still at the corners.

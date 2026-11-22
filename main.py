@@ -2,8 +2,8 @@ from pathlib import Path
 
 
 ENTRY = (
-    "The apron hangs by the kitchen door. In its pocket is a wooden clothespin, "
-    "left there when the washing came in. All evening the cloth keeps that small shape."
+    "The apron hangs by the kitchen door. A wooden clothespin lies sideways in "
+    "the pocket. The light is low enough to show the ridge it makes in the cloth."
 )
 
 if __name__ == "__main__":
